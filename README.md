@@ -1,15 +1,16 @@
 # Next.js SaaS Starter Template
 
-A feature-rich Next.js starter template for building SaaS applications with Supabase, Stripe, and more.
+A minimalist modern and feature-rich Next.js starter template for building SaaS applications with Supabase, Stripe, and more. Created to be a starting point for personal applications, public for free!
 
 ## Features
 
 - **Authentication**: Secure user authentication with Supabase Auth.
 - **Subscriptions**: Stripe integration for managing subscription plans.
 - **Database**: Supabase for a powerful and easy-to-use database.
-- **UI Components**: A set of reusable UI components.
+- **UI Components**: A set of reusable UI components for core features, keep or delete.
 - **Feedback System**: A built-in feedback system for collecting user feedback.
 - **Email**: Resend integration for sending transactional emails.
+- **Analytics**: TODO (comming soon)
 
 ## Getting Started
 
@@ -23,7 +24,7 @@ A feature-rich Next.js starter template for building SaaS applications with Supa
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/next-saas-starter-template.git
+    git clone https://github.com/SimonAmable/next-saas-template.git
     cd next-saas-starter-template
     ```
 

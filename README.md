@@ -24,7 +24,7 @@ A minimalist modern and feature-rich Next.js starter template for building SaaS 
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/simonamable/next-saas-starter-template.git
+    git clone https://github.com/SimonAmable/next-saas-template.git
     cd next-saas-starter-template
     ```
 

@@ -69,7 +69,7 @@ A feature-rich Next.js starter template for building SaaS applications with Supa
 | `NEXT_PUBLIC_GOOGLE_CLIENT_ID`             | Your Google client ID for Google authentication.                                                                                         |
 | `RESEND_API_KEY`                           | Your Resend API key for sending emails.                                                                                                  |
 | `FEEDBACK_EMAIL_TO`                        | The email address where feedback submissions will be sent.                                                                               |
-| `NEXT_PUBLIC_SITE_URL`                     | The public URL of your application. Defaults to `http://localhost:3000`.                                                                 |
+| `NEXT_PUBLIC_SITE_URL`                     | The public URL of your application. Local or Prod. Defaults to `http://localhost:3000`.                                                                 |
 
 ## Deployment
 
@@ -81,7 +81,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request if you have any ideas or improvements.
+This is a public project but was made for personal use. Contributions are still always welcome! Please open an issue or submit a pull request if you have any ideas or improvements.
 
 ## License
 

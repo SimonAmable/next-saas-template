@@ -39,7 +39,7 @@ A minimalist modern and feature-rich Next.js starter template for building SaaS 
     Create a `.env.local` file by copying the example:
 
     ```bash
-    cp .env.example .env.local
+    cp sample-env.md .env.local
     ```
 
     Then, fill in the required values in `.env.local`.

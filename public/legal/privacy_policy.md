@@ -1,8 +1,8 @@
 # Privacy Policy
 
-_Last updated: July 13th, 2025._
+_Last updated: [Date]_
 
-PixelPecfect.ai ("we", "us", or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our website and AI-powered image creation and editing services (the "Services"). By using our Services, you agree to the terms of this Privacy Policy.
+[Your Company Name] ("we", "us", or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our website and services (the "Services"). By using our Services, you agree to the terms of this Privacy Policy.
 
 ## 1. Information We Collect
 
@@ -10,7 +10,7 @@ We may collect the following types of information:
 
 - **Personal Information:** Such as your name, email address, and payment information when you create an account, subscribe, or contact us.
 - **Usage Data:** Information about how you use our Services, including log files, IP address, browser type, device information, and access times.
-- **User Content:** Images and other content you create, upload, or edit using our Services.
+- **User Content:** Content you create, upload, or process using our Services.
 - **Cookies and Tracking Technologies:** We use cookies and similar technologies to enhance your experience and analyze usage of our Services.
 
 ## 2. How We Use Your Information
@@ -48,7 +48,7 @@ Depending on your location, you may have the following rights regarding your per
 
 To exercise these rights, please contact us at [your contact email].
 
-## 6. Children’s Privacy
+## 6. Children's Privacy
 
 Our Services are not intended for children under 18. We do not knowingly collect personal information from children. If you believe we have collected such information, please contact us so we can take appropriate action.
 
@@ -58,4 +58,4 @@ We may update this Privacy Policy from time to time. We will notify you of any m
 
 ## 8. Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at simonamable@gmail.com.
+If you have any questions or concerns about this Privacy Policy, please contact us at [your contact email].

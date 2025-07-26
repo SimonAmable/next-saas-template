@@ -37,7 +37,7 @@ const ProfileCard = () => {
         .eq("id", user.id)
         .single();
       setProfile({
-        avatar_url: profileData?.avatar_url || "/avatar.png",
+        avatar_url: profileData?.avatar_url || "/logo.png",
         name: profileData?.name || user.email || "User",
         email: profileData?.email || user.email || "",
         is_pro: !!profileData?.is_pro,

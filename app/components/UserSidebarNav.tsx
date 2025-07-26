@@ -99,7 +99,7 @@ export function NavUser() {
         setUser({
           name: user.email ?? "John Doe",
           email: user.email ?? "john.doe@example.com",
-          avatar: profile?.avatar_url || "/avatar.png"
+          avatar: profile?.avatar_url || "/logo.png"
         })
       } else {
         setUser(null)
